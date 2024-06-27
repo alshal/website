@@ -13,4 +13,5 @@
 <a href="https://www.alshal.info/pdf/GR/05.pdf">Week5</a> - 
 <a href="https://www.alshal.info/pdf/GR/06.pdf">Week6</a> - 
 <a href="https://www.alshal.info/pdf/GR/07.pdf">Week7</a> - 
-<a href="https://www.alshal.info/08.pdf">Week8</a>
+<a href="https://www.alshal.info/08.pdf">Week8</a> - 
+Project in Week9 & Week10
