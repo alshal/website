@@ -6,8 +6,7 @@
 
 <a href="https://www.alshal.info/pdf/GR/Syllabus.pdf">Syllabus</a>
 <br>
-<a href="https://www.alshal.info/pdf/GR/01.pdf">Week1</a>
-<br>
+<a href="https://www.alshal.info/01.pdf">Week1</a>
 <a href="https://www.alshal.info/pdf/GR/02.pdf">Week2</a>
 <br>
 <a href="https://www.alshal.info/pdf/GR/03.pdf">Week3</a>
