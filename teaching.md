@@ -6,4 +6,4 @@
 
 <a href="https://www.alshal.info/pdf/GR/Syllabus.pdf">Syllabus</a>
 <br>
-<a href="https://www.alshal.info/pdf/GR/01_GR.pdf">Week01</a>
+<a href="https://www.alshal.info/pdf/GR/01.pdf">Week01</a>
