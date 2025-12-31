@@ -2,6 +2,12 @@
 
 -------
 
+### Quantum Computation & Machine Learning, Winter 2025
+
+<a href="https://www.alshal.info/pdf/QCML/QCML_syllabus.pdf">Syllabus</a>
+<br>
+-------
+
 ### General Relativity, Spring 2024
 
 <a href="https://www.alshal.info/pdf/GR/Syllabus.pdf">Syllabus</a>
