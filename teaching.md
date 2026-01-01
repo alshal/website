@@ -2,7 +2,7 @@
 
 -------
 
-### Quantum Computation & Machine Learning, Winter 2025
+### Quantum Computation & Machine Learning, Winter 2026
 
 <a href="https://www.alshal.info/pdf/QCML/QCML_syllabus.pdf">Syllabus</a>
 <br>
