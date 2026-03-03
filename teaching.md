@@ -9,7 +9,9 @@
 <a href="https://www.alshal.info/pdf/QCML/QML01.pdf">Week1</a> - 
 <a href="https://www.alshal.info/pdf/QCML/QML02.pdf">Week2</a> -
 <a href="https://www.alshal.info/pdf/QCML/QML03.pdf">Week3</a> -
-<a href="https://www.alshal.info/pdf/QCML/QML04.pdf">Week4</a>
+<a href="https://www.alshal.info/pdf/QCML/QML04.pdf">Week4</a> -
+<a href="https://www.alshal.info/pdf/QCML/QML05.pdf">Week5</a> -
+<a href="https://www.alshal.info/pdf/QCML/QML06.pdf">Week6</a> -
 <br>
 
 -------
